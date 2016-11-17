@@ -55,6 +55,7 @@ namespace CoreWeb
                     name: "default",
                     template: "{controller=Home}/{action=Index}/{id?}");
             });
+
         }
     }
 }
